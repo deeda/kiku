@@ -11,7 +11,7 @@
 			useSectionTransitions: true,
 
 		// Fade in speed (in ms)
-			fadeInSpeed: 570,
+			fadeInSpeed: 170,
 
 		// skel
 			skel: {
